@@ -16,7 +16,7 @@ Robot project for GPGPU2018
    
    (5) Grab get_action.py, broadcaster.py under tf-openpose folder
   
-3. Execution
+## 3. Execution
    $ roscore
    
    $ roslaunch darknet_ros darknet_ros.launch
@@ -31,8 +31,11 @@ Robot project for GPGPU2018
    
    $ python YOUR_PATH/tf-openpose/broadcatser_ros.py
   
-4. Reference:
+## 4. Reference:
    (1) ROS: http://wiki.ros.org/kinetic/Installation
+   
    (2) YOLOv3: https://github.com/leggedrobotics/darknet_ros
+   
    (3) tf-openpose: https://github.com/ildoonet/tf-pose-estimation
+   
    (4) ROS voice message (Android): https://play.google.com/store/apps/details?id=org.ros.android.android_voice_message&hl=zh_TW
