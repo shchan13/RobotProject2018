@@ -12,8 +12,8 @@ Robot project for GPGPU2018
    (5) Grab get_action.py, broadcaster.py under tf-openpose folder
   
 3. Execution
-   $ roscore
-   $ roslaunch darknet_ros darknet_ros.launch
+   $ roscore\n
+   $ roslaunch darknet_ros darknet_ros.launch\n
    $ python catkin_ws/src/robot_project/script/main_controller.py
    $ python catkin_ws/src/robot_project/script/get_obj.py
    $ python catkin_ws/src/robot_project/script/voice_reg.py
